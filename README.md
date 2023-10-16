@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Gabriel and I'm a graduation student, from UFU</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -36,14 +36,6 @@
   </a>
   <a href="instagram.com/gabre.jpg" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/gabriellrbarbosa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
